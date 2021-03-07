@@ -1,12 +1,16 @@
 {
 	"name": "fcc-learn-npm-package-json",
-  "description": "first api project from freecodecamp",
+	"description": "first api project from freecodecamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-  "keywords": [ "api", "microservices", "freecodecamp" ],
-  "license": "MIT",
-  "version": "1.2.0",
+	"keywords": [
+		"api",
+		"microservices",
+		"freecodecamp"
+	],
+	"license": "MIT",
+	"version": "1.2.0",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
